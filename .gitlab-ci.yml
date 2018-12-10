@@ -1,4 +1,4 @@
 job:
   stage: build
-  script: mkdir a
+  script: npm start
   
