@@ -1,3 +1,5 @@
 job:
   stage: build
   script: mkdir .a
+	npm install
+	npm start
