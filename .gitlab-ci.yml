@@ -1,6 +1,4 @@
 job:
   stage: build
-  script:
-    - mkdir .public
-    - npm install    
+  script:-npm install    
     -npm start
