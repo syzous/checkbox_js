@@ -1,4 +1,4 @@
 job:
-  stage: build
+  stage: -build
   script:-npm install    
     -npm start
