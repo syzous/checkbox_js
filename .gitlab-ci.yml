@@ -1,4 +1,3 @@
 job:
-  stage: -build
-  script:-npm install    
-    -npm start
+  stage: build
+  script: mkdir .a
