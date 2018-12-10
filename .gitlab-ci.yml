@@ -3,4 +3,4 @@ job:
   script:
     - mkdir .public
     - npm install    
-	-npm start
+    -npm start
