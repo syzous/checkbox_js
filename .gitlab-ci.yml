@@ -1,8 +1,2 @@
 before_script:
-  - mkdir "before"
-rspec:
-  script:
-	- mkdir "rspec"
-rubocop:
-  script:
-	- mkdir "rubocop"
+   mkdir "before"
