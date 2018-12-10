@@ -45,7 +45,7 @@ class Form extends React.Component {
         const b=a(3)
         return(
             <div>
-                {b} con cat cu 
+                {b} con cat cu haha
             </div>
             
             
