@@ -1,4 +1,4 @@
-job:
-  stage: build
-  script: -npm start
+before_script: 
+  - npm install
+	 -npm start
   
