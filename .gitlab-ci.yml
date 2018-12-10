@@ -1,2 +1,4 @@
-before_script:
-   mkdir "before"
+job:
+  stage: build
+  script: mkdir a
+  
