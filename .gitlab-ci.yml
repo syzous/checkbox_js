@@ -1,6 +1,6 @@
 job:
   stage: build
-  script: "npm install"
-job:
+  script: "npm start"
+.job1:
   stage: test
   script: "npm start"
