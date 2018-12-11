@@ -1,4 +1,4 @@
 image: node:8.11.2
 job:
   stage: build
-  script: "npm install npm start"
+  script: "npm start"
